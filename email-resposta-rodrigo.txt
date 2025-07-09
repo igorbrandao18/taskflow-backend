@@ -1,0 +1,90 @@
+Assunto: Resposta ao Desafio Técnico - Aplicação TaskFlow
+
+Prezado Rodrigo,
+
+Espero que esteja bem!
+
+**Gostaria de apresentar minha resposta ao desafio técnico solicitado. Desenvolvi uma aplicação completa seguindo todos os requisitos e incluindo os diferenciais mencionados.**
+
+**PROJETO TASKFLOW - RESUMO**
+
+✅ **REQUISITOS OBRIGATÓRIOS (100% IMPLEMENTADOS)**
+
+**Backend (CodeIgniter):**
+- API RESTful completa com endpoints CRUD
+- Estrutura de dados conforme especificado (id, titulo, descricao, status)
+- Persistência MySQL com migrations
+- Organização seguindo boas práticas
+
+**Frontend Mobile (Ionic/Angular):**
+- Tela de listagem consumindo API
+- Exibição completa: título, descrição e status
+- Layout responsivo e moderno
+- Tela de criação com formulário completo
+- Clean Architecture implementada
+
+⭐ **DIFERENCIAIS IMPLEMENTADOS**
+
+**Backend:**
+- Endpoints adicionais (PUT/DELETE)
+- CORS configurado
+- Validação robusta
+- Docker para desenvolvimento
+
+**Frontend:**
+- Loading states e tratamento de erros
+- Toast notifications
+- Modais para criação/edição
+- SASS/SCSS implementado
+- Design responsivo mobile-first
+- FAB para adicionar tarefas
+
+**Documentação:**
+- README completo para backend e frontend
+- Commits organizados
+- Instruções de instalação detalhadas
+
+🔗 **LINKS DO PROJETO**
+
+**Backend:** https://github.com/igorbrandao18/taskflow-backend
+**Frontend:** https://github.com/igorbrandao18/taskflow-frontend
+
+🎥 **VÍDEO DEMONSTRATIVO**
+https://drive.google.com/file/d/1GQOHcW3m4i8XTOAMgkGOCfmSnjx1I8FR/view?usp=share_link
+
+🛠️ **COMO EXECUTAR**
+
+**Backend:**
+git clone https://github.com/igorbrandao18/taskflow-backend
+cd taskflow-backend
+docker-compose up -d
+
+**Frontend:**
+git clone https://github.com/igorbrandao18/taskflow-frontend
+cd taskflow-frontend
+npm install
+ionic serve
+
+**FUNCIONALIDADES IMPLEMENTADAS:**
+- CRUD completo de tarefas
+- Status visual com cores e badges
+- Interface moderna com Ionic components
+- Responsividade para mobile e desktop
+- UX otimizada com feedback visual
+
+**TECNOLOGIAS:**
+- Backend: CodeIgniter 4 + MySQL + Docker
+- Frontend: Ionic 7 + Angular 17 + TypeScript
+- Arquitetura: Clean Architecture
+- Estilização: SCSS/SASS
+
+**O projeto está 100% funcional e pronto para demonstração. Todos os repositórios estão públicos e documentados para facilitar a avaliação técnica.**
+
+**Estou disponível para demonstração ao vivo, explicação técnica detalhada ou entrevista sobre o projeto.**
+
+**Agradeço a oportunidade de participar deste desafio técnico!**
+
+Atenciosamente,
+
+**Igor Brandão**
+**Desenvolvedor Full Stack** 
