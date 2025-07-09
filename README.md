@@ -2,6 +2,36 @@
 
 API REST para gerenciamento de tarefas desenvolvida com **CodeIgniter 4** e **MySQL**, seguindo as melhores práticas de desenvolvimento.
 
+## 📋 Sobre o Desafio
+
+Este projeto foi desenvolvido como parte de um **desafio técnico** para demonstrar habilidades em:
+
+### 🎯 Objetivos
+- **Backend robusto**: API REST completa com CodeIgniter 4
+- **CRUD de tarefas**: Operações completas de criação, leitura, atualização e exclusão
+- **Arquitetura limpa**: Seguindo princípios SOLID e Clean Architecture
+- **Documentação**: README completo e endpoints bem documentados
+- **Testes**: Cobertura de testes unitários e de integração
+- **Docker**: Containerização para facilitar desenvolvimento e deploy
+
+### 🏆 Funcionalidades Implementadas
+- ✅ **GET /api/tasks** - Listar todas as tarefas
+- ✅ **POST /api/tasks** - Criar nova tarefa
+- ✅ **PUT /api/tasks/{id}** - Atualizar tarefa existente
+- ✅ **DELETE /api/tasks/{id}** - Remover tarefa
+- ✅ **GET /api/tasks/{id}** - Obter tarefa específica
+- ✅ **CORS configurado** - Para integração com frontend
+- ✅ **Validação de dados** - Proteção contra dados inválidos
+- ✅ **Logs de auditoria** - Rastreamento de operações
+- ✅ **Status das tarefas** - Enum com valores: pending, in_progress, completed
+
+### 🔧 Tecnologias Utilizadas
+- **CodeIgniter 4**: Framework PHP moderno e robusto
+- **MySQL 8.0**: Banco de dados relacional
+- **Docker**: Containerização para desenvolvimento
+- **PHP 8.1+**: Linguagem de programação
+- **Composer**: Gerenciador de dependências
+
 ## 🏗️ Arquitetura
 
 O projeto segue a arquitetura **MVC (Model-View-Controller)** do CodeIgniter:
