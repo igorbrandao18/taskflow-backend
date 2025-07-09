@@ -324,16 +324,10 @@ curl -X DELETE http://localhost:8080/api/tasks/1
 
 ## 📚 Documentação da API
 
-### Swagger/OpenAPI
-Acesse a documentação interativa em:
-```
-http://localhost:8080/swagger
-```
-
 ### Endpoints Testáveis
-- **Swagger UI**: Interface gráfica para testar endpoints
 - **curl**: Comandos prontos para teste
 - **Postman**: Collection disponível
+- **Testes de integração**: Scripts automatizados
 
 ## 🚀 Deploy
 
